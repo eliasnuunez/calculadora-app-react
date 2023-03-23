@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/calculadora-app-react/static/css/main.e7e95032.css",
+    "main.js": "/calculadora-app-react/static/js/main.655efef7.js",
+    "static/media/perfil.jpg": "/calculadora-app-react/static/media/perfil.a654a14df0d8954936e0.jpg",
+    "static/media/twitter.svg": "/calculadora-app-react/static/media/twitter.f98fc735ff3e4e01f002fea7e135bc9d.svg",
+    "static/media/linkedin.svg": "/calculadora-app-react/static/media/linkedin.aabef34d94a912b636c7ff90706497fb.svg",
+    "index.html": "/calculadora-app-react/index.html",
+    "main.e7e95032.css.map": "/calculadora-app-react/static/css/main.e7e95032.css.map",
+    "main.655efef7.js.map": "/calculadora-app-react/static/js/main.655efef7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7e95032.css",
+    "static/js/main.655efef7.js"
+  ]
+}
